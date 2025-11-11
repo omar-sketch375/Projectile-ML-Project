@@ -6,3 +6,9 @@ It uses Machine Learning (Linear Regression) and visualizes the projectile’s m
 - User can input any angle (degrees) and velocity (m/s)
 - Visualizes the projectile motion as a graph
 - Compares ML predictions with physics-based calculations
+## Technologies
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-Learn
