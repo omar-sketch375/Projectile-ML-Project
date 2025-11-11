@@ -12,3 +12,8 @@ It uses Machine Learning (Linear Regression) and visualizes the projectile’s m
 - Pandas
 - Matplotlib
 - Scikit-Learn
+## How to Run
+- Click on Untitled0.ipynb
+- Open on colab
+- Run the code
+- Enter the angle then the velocity
