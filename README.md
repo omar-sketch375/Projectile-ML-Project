@@ -13,7 +13,7 @@ It uses Machine Learning (Linear Regression) and visualizes the projectile’s m
 - Matplotlib
 - Scikit-Learn
 ## How to Run
-- Click on Untitled0.ipynb
-- Open on colab
+- Click on https://colab.research.google.com/github/omar-sketch375/Projectile-ML-Project/blob/main/Untitled0.ipynb
 - Run the code
 - Enter the angle then the velocity
+  
